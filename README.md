@@ -1,2 +1,2 @@
 # data-science
-Data analytics, visualization and machine learning
+Data preprocessing, analysis, visualization and machine learning
